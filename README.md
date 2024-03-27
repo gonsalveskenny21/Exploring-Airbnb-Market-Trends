@@ -1,7 +1,5 @@
 **Problem Statement**
 
-- As a consultant working for a real estate start-up, you have collected Airbnb listing data from various sources to investigate the short-term rental market in New York. You'll analyze this data to provide insights on private rooms to the real estate company.
-
 - There are three files in the data folder: airbnb_price.csv, airbnb_room_type.xlsx, airbnb_last_review.tsv.
   - What are the dates of the earliest and most recent reviews? Store these values as two separate variables with your preferred names.
   - How many of the listings are private rooms? Save this into any variable.
